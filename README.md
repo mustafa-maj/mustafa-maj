@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) - I'm Mustafa Majeed
 =====================================================================================================================================
 
-Aspiring Software Engineer @ Warwick University
+Aspiring Software Engineer
 ---------------------------------------------
 
 Currently an undergraduate at the University of Warwick studying Computer Science. I am passionate about technology and how it can be used to solve real world problems.
